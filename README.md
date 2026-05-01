@@ -86,6 +86,7 @@ A forensic investigation was conducted on AWS CloudTrail logs following a suspec
 - IAM privilege escalation detection
 - Base64 decoding (CyberChef)
 - Attack timeline reconstruction
+- VS CODE
 - DFIR — Digital Forensics & Incident Response
 
 ---
